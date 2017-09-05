@@ -1,0 +1,183 @@
+.head{
+position:fixed;	
+margin-left:-10px;
+margin-top:-25px;
+width:100%;
+height:61px;
+background-color:black;
+padding-left:160px;
+}
+
+a{
+text-decoration:none;
+}
+.c2{
+margin-top:30px;
+}
+
+#logo{
+color:blue;
+}
+
+ul{
+list-style-type:none;
+overflow:hidden;
+margin-left:0px;
+padding-left:0px;
+}
+
+#product{
+width:55%;
+margin-top:10px;
+margin-left:50px;
+}
+
+.head li{
+float:left;
+}
+
+
+.hero{
+margin:10px 0px;
+width:100%;
+height:500px;
+background-color:#FBF8EF;
+}
+
+#himage{
+height:85%;
+margin-left:85px;
+margin-top:35px;
+}
+
+.head li a{
+color:#EFF2FB;
+display:block;
+width:120px;
+height:15px;
+font-family:sans-sherif;
+text-align:center;
+padding:15px 2px;
+font-size:15px;
+
+}
+
+.head li a:hover{
+opacity:0.8;
+}
+
+.c1{
+font-size:14px;
+font-family:Helvetica;
+letter-spacing:1px;
+line-height:115%;
+margin-bottom:10px;
+text-align:justify;
+}
+
+.c3{
+margin-top:100px;
+}
+
+.c3 h2{
+position:absolute;
+top:1155px;
+left:355px;
+letter-spacing:1px;
+background: rgb(0, 0, 0); 
+background: rgba(0, 0, 0, 0.7);
+padding: 10px; 
+color:white;
+opacity:0.6;
+
+}
+
+
+footer{
+padding-left:30px;
+margin-top:30px;
+color:black;
+height:250px;
+background-color:#f2f2f2;
+}
+
+footer div{
+font-size:13px;
+font-weigth:800;
+font-family:"Helvetica","Arial","sans-serif";
+margin-left:170px;
+margin-top:50px;
+float:left;
+}
+
+footer li{
+margin-top:5px;
+font-family:sans-serif;
+font-size:12px;
+}
+
+footer li a{
+color:black;
+}
+
+footer li a:hover{
+text-decoration:underline;
+}
+
+.i1{
+color:black;
+background:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.2));
+background-repeat:no-repeat;
+}
+.c5{
+height:400px;
+}
+
+fieldset{
+border: 1px;
+padding:20px 20px;
+width:40%;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 5px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+} 
+
+form{
+margin-left:180px;
+margin-top:30px;
+}
+
+input[type="button"]{
+    background-color: #555;
+    border: none;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;	
+}
+input[type="button"]:hover{
+opacity:0.9;
+cursor:pointer;
+}
+
+.container_12 h3{
+text-align:center;
+font-family:sans-serif;
+opacity:0.6;
+}
+
+.container_12 .c5 img{
+width:80%;
+height:60%;
+padding:28px;
+}
+
+.contact{
+background-color:#fafafa;
+}
